@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Гемодинамический Калькулятор</string>
+    <string name="lss">Лёгочное Сосудистое Сопротивление</string>
+    <string name="uovti">Ударный объём (VTI)</string>
+    <string name="si">Сердечный индекс</string>
+    <string name="dlp">Расчет ДЛП</string>
+    <string name="back">назад</string>
+    <string name="res">Посчитать</string>
+    <string name="pvb">Подсчёт водного баланса</string>
+</resources>
